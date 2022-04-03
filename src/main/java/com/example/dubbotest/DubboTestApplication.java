@@ -56,7 +56,7 @@ public class DubboTestApplication {
      int a =   hash(130);
         System.out.println(a);
         System.out.println(Math.floorMod(a,1024));
-        System.out.println("主分支");
+        System.out.println("20220403分支");
 
     }
 

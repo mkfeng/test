@@ -57,7 +57,7 @@ public class DubboTestApplication {
         System.out.println(a);
         System.out.println(Math.floorMod(a,1024));
         System.out.println("主分支");
-        System.out.println("20220401分支");
+
     }
 
 }

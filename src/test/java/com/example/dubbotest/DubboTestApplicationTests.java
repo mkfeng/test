@@ -8,6 +8,7 @@ class DubboTestApplicationTests {
 
     @Test
     void contextLoads() {
+          System.out.println("随意");
     }
 
 }
